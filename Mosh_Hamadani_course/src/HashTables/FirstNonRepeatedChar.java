@@ -3,7 +3,7 @@ package HashTables;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FirstChar {
+public class FirstNonRepeatedChar {
 	public static void main(String[] args) {
 		System.out.print("first: ");
 		System.out.println(firstNonRepeatedChar("a green apple"));
